@@ -1,0 +1,10 @@
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\bin\Debug\Acess Veritabanı.exe.config
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\bin\Debug\Acess Veritabanı.exe
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\bin\Debug\Acess Veritabanı.pdb
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess Veritabanı.csprojAssemblyReference.cache
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess_Veritabanı.Form1.resources
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess_Veritabanı.Properties.Resources.resources
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess Veritabanı.csproj.GenerateResource.cache
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess Veritabanı.csproj.CoreCompileInputs.cache
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess Veritabanı.exe
+C:\Users\Durukan\Desktop\Acess Veritabanı\Acess Veritabanı\obj\Debug\Acess Veritabanı.pdb
